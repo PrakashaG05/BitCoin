@@ -17,7 +17,7 @@ function Graph(props) {
                     fontWeight: "normal"
                 },
                 axisX:{
-                    valueFormatString: "MM",
+                    valueFormatString: "DD MMM",
                     crosshair: {
                         enabled: true,
                         snapToDataPoint: false
